@@ -73,7 +73,7 @@ python spm_cmb_peak_sim.py
 ## 📚 Citation
 
 Ruecker, E. (2025). *The Spacetime Pressure Model: A Unified Cosmological Theory*.  
-📄 [Read the theory on OSF](https://osf.io/your-spm-link)
+📄 [Read the theory on OSF]https://osf.io/6zdaw/
 
 ---
 
